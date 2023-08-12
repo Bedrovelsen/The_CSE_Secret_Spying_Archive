@@ -2,6 +2,92 @@
 
 The following article and uploaded documents (I extracted the pdfs from the source portfolio archives for ease of viewing) sourced from [here](https://bccla.org/2023/03/pulling-back-the-curtain-on-canadas-mass-surveillance-programs-part-two-the-cse-secret-spying-archive/)
 
+below I have included the contents of Bill Robinson's post about the release followed by the bccla post of the release. 
+
+---
+---
+
+### BCCLA posts CSE documents
+
+Yesterday, the British Columbia Civil Liberties Association (BCCLA) posted an important collection of 284 documents relating to the operations of the Communications Security Establishment. The documents provide a unique window into the ways the statutory provisions governing CSE were interpreted and operationalized by the agency in the period between 2001, when CSE's first statutory mandate was added to the *National Defence Act*, and the 2019 entry into force of the *CSE Act*. They also provide rare insight into the way CSE's signals intelligence (SIGINT) and information technology security (ITSEC) programs actually work.
+
+In 2013, in the wake of the Snowden revelations, the BCCLA took the government to court, alleging that CSE’s bulk collection of metadata and incidental collection of private communications violated Canadians’ *Charter* rights to privacy. The case, which went on for several years, took place behind closed doors, and is likely ultimately to have played an important role in the government's decision to enact a number of reforms to CSE's powers and the oversight and review mechanisms for the agency in the *CSE Act* and other parts of Bill C-59, passed in 2019. (You can read more about the litigation [here](https://bccla.org/2022/12/pulling-back-the-curtain-on-canadas-mass-surveillance-programs-part-one-a-decade-of-secret-spy-hearings/).)
+
+
+During the course of the litigation, the BCCLA was provided with a large body of documents concerning CSE's operations. Although heavily redacted in many parts, these documents contained a lot of never previously revealed information about the agency's activities, with particular emphasis on the rules and procedures governing the collection and handling of communications and other information concerning persons located in Canada and Canadians located anywhere by CSE's signals intelligence (SIGINT) and information technology security (ITSEC) programs.
+
+Unfortunately, they were provided under a confidentiality undertaking that prevented the BCCLA from making them public. However, in 2017 I made an access to information request for the documents, and eventually, following an appeal to the Information Commissioner, they were provided to me with no additional redactions. The government then released the BCCLA from its undertaking.
+
+Now the BCCLA has made the collection, comprising over 4,900 pages of documents, available for download on its website. You can find the links at the end of [Greg McMullen's guide to their contents](https://bccla.org/2023/03/pulling-back-the-curtain-on-canadas-mass-surveillance-programs-part-two-the-cse-secret-spying-archive/).
+
+
+I've also put together some introductory notes here.
+
+
+The following key operational policy documents are included in the collection:
+
+OPS-1, *Protecting the Privacy of Canadians and Ensuring Legal Compliance in the Conduct of CSEC Activities* (AGC 0022)
+
+OPS-1-1, *Operational Procedures for the Release of Suppressed Information from SIGINT Reports* (AGC 0020) (28 September 2012 version) and OPS-1-1, *Policy on Release of Suppressed Information* (AGC 0253) (14 November 2014 version)
+
+OPS-1-6, *Operational Procedures for Naming and Releasing identities in Cyber Defence Reports* (AGC 0011)
+
+OPS-1-7, *Operational Procedures for Naming in SIGINT Reports* (AGC 0019)
+
+OPS-1-8, *Operational Procedures for Policy Compliance Monitoring to Ensure Legal Compliance and the Protection of the Privacy of Canadians* (AGC 0024)
+
+OPS-1-10, *Operational Procedures for Metadata Analysis [redacted]* (AGC 0012)
+
+OPS-1-11, *Retention Schedules for SIGINT Data*(AGC 0007)
+
+OPS-1-13, *Operational Procedures Related to Canadian [redacted] Collection Activities* (AGC 0023)
+
+OPS-1-15, *Operational Procedures for Cyber Defence Activities Using System Owner Data*(AGC 0018)
+
+OPS-1-16, *Policy on Metadata Analysis for Foreign Intelligence Purposes* (AGC 0279)
+
+OPS-3-1, *Operational Procedures for [redacted; probably "Computer Network Exploitation"] Activities* (AGC 0026)
+
+
+OPS-6, *Policy on Mistreatment Risk Management*(AGC 0266).
+
+These twelve operational policy documents provide the most detailed window into the policies that govern CSE's operations ever made available to the public. It is important to note that all were superseded in 2018 when CSE introduced an entirely rewritten Mission Policy Suite in preparation for the passage of the *CSE Act.* However, it is likely that most of the details of those policies remain unchanged, so the documents also provide the best currently available insight into the likely parameters of present operational policies at the agency.
+
+The collection also contains numerous other documents, training materials, and briefing decks that provide further insight into CSE policies and activities. These include:
+
+- The Ministerial Directive issued by the Minister of National Defence on CSE use of metadata (both the 9 March 2005 version (AGC 0004) and the 21 November 2011 version (AGC 0017)).
+
+- The Ministerial Directive on the Integrated SIGINT Operational Model (AGC 0076), which governs CSE's relationship with Canadian military SIGINT activities.
+
+- Examples of the annual Ministerial Authorizations issued under the pre-2019 system to authorize CSE collection activities risking the inadvertent collection of Canadian private communications. Examples of the background memos provided to the Minister of National Defence to explain proposed Ministerial Authorizations are also in the collection.
+
+- CSE's classified Annual Reports to the Minister of National Defence for fiscal years 2010-11, 2011-12, 2012-13, and 2013-14.
+
+- Copies of many of the memoranda of understanding between CSE and client departments on the provision of SIGINT services.
+
+- Subsidiary policy and procedure documents on a wide range of subjects, such as *Producing Gists for Indications and Warning Purposes* (AGC 0134), *Targeting Identifiers for [Foreign Intelligence] under Mandate A* (AGC 0135), and *Foreign Assessments and Protected Entities*(AGC 0136).
+
+- Two training manuals for CSE employees: *SIGINT 101 Orientation Program* (AGC 0182), an introduction to CSE's SIGINT program, and *DGI [Director General Intelligence] Familiarization Manual* (AGC 0193), an introduction to work as a SIGINT analyst at CSE.
+
+- Numerous classified reports from CSE's pre-2019 watchdog body, the Office of the Communications Security Establishment Commissioner (OCSEC), and CSE's responses to those reports. These include OCSEC's 2015 review of CSE's metadata activities (AGC 0278), which examines a series of failures by CSE to protect information about Canadians in metadata shared with foreign partners. This report is the best source of information available on those events, which led to the only declaration that CSE had failed to comply with the law that OCSEC ever issued.
+
+In addition to broader policy questions, the documents are an unparalleled source of background information about aspects of CSE's activities. For example, one OCSEC review (AGC 0110) describes the nature of the Client Relations Officer (CRO) system that CSE uses to deliver SIGINT products to many of its government clients. Another (AGC 0179) contains the first data ever released to the public on the percentage of requests made by SIGINT clients for Canadian Identity Information that were approved by CSE (1113 of 1119, or more than 99%). In 2021, the National Security and Intelligence Review Agency (NSIRA), which replaced OCSEC in 2019, was able to release additional data on CSE's approval rate for requests, possibly in part because the BCCLA release had already established that such data could be declassified.
+
+In other cases the documents provide insight into aspects of CSE's activities that the agency is still redacting from NSIRA reports. For example, pages 19-21 of [this NSIRA report](https://nsira-ossnr.gc.ca/review-of-the-communications-security-establishments-self-identified-privacy-incidents-and-procedural-errors) released in 2021 discussed a flawed policy related to privacy protection that was later rescinded by CSE, but NSIRA was evidently unable to include any information about the nature of the policy in its report. The key details of the policy in question can be found on pages 30-31 of OPS-1-7, *Operational Procedures for Naming in SIGINT Reports* (AGC 0019).
+
+In other cases, one can observe the evolution of CSE policies over time. For example, in document AGC 0182 (p. 99) it is explained that "we [CSE] do not have to protect the privacy of non-Canadians in Canada. This means that in reports we can name people who are in Canada and who fall into certain categories like holding work or student visas, or who are illegal immigrants." But document AGC 0206 (p. 122) reports that this policy was changed in April 2014, with CSE's privacy policies now covering all persons in Canada. (Given the timing of this change, it's likely that it was made in response to the BCCLA's legal action.)
+
+The documents are also a gold mine of information on the official definitions of key terms used by CSE, encompassing concepts such as Canadian Privacy-Related Information, Metadata, and Contact Chaining. The BCCLA has put together a guide to many of those terms [here](https://bccla.org/wp-content/uploads/2023/03/Glossary-of-CSE-Terms.pdf) (but note that their glossary is "a work in progress and not intended as a formal dictionary").
+
+
+Some of the documents in the BCCLA collection have previously been released to individual requesters through the Access to Information Act. But in many cases the versions released were significantly more heavily redacted than the versions provided to the BCCLA. (The parts of the documents pertaining to CSE's mandate to provide support to federal law enforcement and security agencies are an exception, however, as those parts were redacted in their entirety from the BCCLA documents as "not relevant" to their case.) In addition, in many cases documents released to individual requesters are never published or otherwise made accessible to other researchers or the general public.
+
+The BCCLA collection is unique in providing systematic access to these documents for online research and downloading.
+
+Enjoy!
+
+[source](https://luxexumbra.blogspot.com/2023/03/bccla-posts-cse-documents.html?m=1)
+
 ---
 ---
    
@@ -280,3 +366,5 @@ Bill Robinson and Greg McMullen served as experts on the case. Due to the scope 
 [[47]](https://bccla.org/2023/03/pulling-back-the-curtain-on-canadas-mass-surveillance-programs-part-two-the-cse-secret-spying-archive/#_ftnref47) AGC0166 at p 29
 
 [[48]](https://bccla.org/2023/03/pulling-back-the-curtain-on-canadas-mass-surveillance-programs-part-two-the-cse-secret-spying-archive/#_ftnref48) AGC0166 at p 13, fn 17
+
+[source](https://bccla.org/2023/03/pulling-back-the-curtain-on-canadas-mass-surveillance-programs-part-two-the-cse-secret-spying-archive/)
