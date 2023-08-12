@@ -2,7 +2,7 @@
 
 This repos pdf documents (I extracted the pdfs from the source portfolio archives for ease of viewing) are sourced from [here](https://bccla.org/2023/03/pulling-back-the-curtain-on-canadas-mass-surveillance-programs-part-two-the-cse-secret-spying-archive/)
 
-I have included the contents of [Bill Robinson's](https://mstdn.ca/@billrobinson) [post about the releases](https://luxexumbra.blogspot.com/2023/03/bccla-posts-cse-documents.html) followed by the bccla [post of the releases](https://bccla.org/2023/03/pulling-back-the-curtain-on-canadas-mass-surveillance-programs-part-two-the-cse-secret-spying-archive/). 
+I have included the contents of [Bill Robinson](https://mstdn.ca/@billrobinson)'s [post about the releases](https://luxexumbra.blogspot.com/2023/03/bccla-posts-cse-documents.html) followed by the bccla [post of the releases](https://bccla.org/2023/03/pulling-back-the-curtain-on-canadas-mass-surveillance-programs-part-two-the-cse-secret-spying-archive/). 
 
 ---
 ---
